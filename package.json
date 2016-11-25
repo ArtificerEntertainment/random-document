@@ -1,0 +1,28 @@
+{
+  "name": "random-document",
+  "version": "1.0.0",
+  "description": "Create random documents for input testing.",
+  "main": "doc-rand.js",
+  "scripts": {
+    "test": "mocha --harmony_array_includes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtificerEntertainment/random-document.git"
+  },
+  "keywords": [
+    "random",
+    "document",
+    "input"
+  ],
+  "author": "Artificer Entertainment",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArtificerEntertainment/random-document/issues"
+  },
+  "homepage": "https://github.com/ArtificerEntertainment/random-document#readme",
+  "dependencies": {
+    "mocha": "3.2.0",
+    "nco": "^1.0.1"
+  }
+}
