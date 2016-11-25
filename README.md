@@ -23,7 +23,8 @@ Example input:
 ```json
 {
   "userId": [1234, 1333, 1559, 1003, 1239, 4230],
-  "userName": ["Adam Cook", "Adam Smith", "David Cook", "David Mortar", "Dale Sawyer"]
+  "userName": ["Adam Cook", "Adam Smith", "David Cook", "David Mortar", "Dale Sawyer"],
+  "age": [11, 22, 33, 44, 55, 66]
 }
 ```
 
